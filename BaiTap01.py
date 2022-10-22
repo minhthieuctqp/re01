@@ -1,0 +1,6 @@
+num1 = float(input("Nhập vào số thứ 1: "))
+num2 = float(input("Nhập vào số thứ 2: "))
+print("Tổng 2 số là: ", num1 + num2)
+print("Hiệu 2 số là: ", num1 - num2)
+print("Tích 2 số là: ", num1 * num2)
+print("Thương 2 số là: ", num1 / num2)
